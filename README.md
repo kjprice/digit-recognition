@@ -1,4 +1,4 @@
-Based on Kaggle's [competition](https://www.kaggle.com/c/digit-recognizer) based on the famous MNIST data.
+Based on Kaggle's [competition](https://www.kaggle.com/c/digit-recognizer) from the famous MNIST data.
 
 The file [image-classification.ipynb](image-classification.ipynb) is the main file for running the recognition.
 
